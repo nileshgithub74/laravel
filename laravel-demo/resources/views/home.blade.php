@@ -1,5 +1,5 @@
-<h1>this is Home page </h1>
-<h2> {{$names}}  </h2>
+{{-- <h1>This is Home Page</h1>
 
-<a href="/">ABout page</a>
+<a href="{{ route('hm') }}">Go to Profile</a> --}}
 
+<h1>This is HomePage</h1>
